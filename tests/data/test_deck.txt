@@ -1,0 +1,92 @@
+1 Mr. House, President and CEO (PIP) 7 *F*
+1 Arcane Signet (M3C) 283
+1 Arid Mesa (MH2) 244
+1 Attempted Murder (UNF) 66 *F*
+1 Automated Artificer (NEO) 239 *F*
+1 Bag of Devouring (AFC) 21
+1 Barbarian Class (AFR) 131
+1 Battlefield Forge (C21) 278
+1 Bennie Bracks, Zoologist (NCC) 86
+1 Berserker's Frenzy (AFC) 29
+1 Big Score (SNC) 102 *F*
+1 Blood Crypt (RNA) 245
+1 Bloodstained Mire (KTK) 230
+1 Boros Signet (SLD) 291 *E*
+1 Brazen Dwarf (AFR) 134
+1 Castle Embereth (CLB) 883
+1 Caves of Koilos (DMU) 244
+1 Celebr-8000 (UNF) 185 *F*
+1 Chaos Channeler (AFR) 136
+1 Chaos Dragon (AFC) 30
+1 Circuits Act (UNF) 103 *F*
+1 Clown Car (UNF) 186
+1 Comet, Stellar Pup (UNF) 275 *F*
+1 Command Tower (DMC) 204
+1 Component Pouch (AFC) 59
+1 Contraband Livestock (CLB) 12 *F*
+1 Danse Macabre (AFC) 22
+1 Delina, Wild Mage (AFR) 138
+1 Ebony Fly (AFC) 60
+1 Exotic Orchard (MKC) 260
+1 Fabrication Foundry (LCI) 12
+1 Farewell (NEO) 13
+1 Godless Shrine (RNA) 248
+1 Grave Endeavor (AFC) 24
+1 Haunted Ridge (MID) 263
+1 Herald of Hadar (AFR) 108 *F*
+1 Hoarding Ogre (AFR) 146
+1 Idol of Oblivion (BRC) 144
+1 Indomitable Archangel (BRC) 72
+1 Inspiring Leader (CLB) 28
+1 Iron Mastiff (CLB) 317
+1 Jan Jansen, Chaos Crafter (CLB) 277
+1 Kalain, Reclusive Painter (AFR) 225 *F*
+1 Lightfoot Rogue (AFR) 111
+1 Losheel, Clockwork Scholar (CMM) 38 *F*
+1 Lotho, Corrupt Shirriff (LTR) 213
+1 Luxury Suite (BBD) 82
+1 Maddening Hex (AFC) 32
+1 Marsh Flats (MH2) 248
+1 Mines of Moria (LTR) 257
+4 Mountain (WOE) 274
+1 Myrkul's Edict (CLB) 135
+1 Night Shift of the Living Dead (UNF) 81
+1 Nomad Outpost (C20) 294
+1 Nuka-Cola Vending Machine (PIP) 137
+1 Orzhov Signet (BRC) 154
+1 Painful Truths (MOC) 262
+3 Plains (MKM) 277
+1 Prosperous Partnership (NCC) 78
+1 Rakdos Signet (SLD) 289 *E*
+1 Reflecting Pool (CLB) 358
+1 Revivify (AFC) 10
+1 Ruinous Ultimatum (IKO) 204
+1 Sacred Foundry (GRN) 254
+1 Savai Triome (IKO) 312 *F*
+1 Securitron Squadron (PIP) 23
+1 Shattered Sanctum (VOW) 264
+1 Silent Clearing (MH1) 246
+1 Sol Ring (M3C) 305
+1 Sonic Screwdriver (WHO) 186
+1 Spectator Seating (CMR) 711
+1 Spiked Pit Trap (AFR) 251
+1 Strength-Testing Hammer (UNF) 193 *F*
+1 Sulfurous Springs (DMU) 381
+1 Sunbaked Canyon (WHO) 309
+1 Sundown Pass (VOW) 266
+4 Swamp (MKM) 282
+1 Sword of Hours (AFC) 61
+1 Talisman of Hierarchy (MOC) 385
+1 Tempered Steel (BRC) 76
+1 The Deck of Many Things (AFR) 241
+1 Tocasia's Welcome (BRO) 30
+1 Trouble in Pairs (MKC) 15
+1 Underdark Rift (AFC) 62
+1 Vault 21: House Gambit (PIP) 69
+1 Vault of Champions (CMR) 360
+1 Vexing Puzzlebox (CLB) 343
+1 Wand of Wonder (CLB) 204
+1 Wrath of God (2XM) 383 *F*
+1 Wyll, Blade of Frontiers (CLB) 208
+1 Wyll's Reversal (CLB) 209 *F*
+1 Zirda, the Dawnwaker (IKO) 360 *F*
