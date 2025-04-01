@@ -2,7 +2,46 @@
 
 Pull MTG card images in b
 
-## Installation
+## Installation and Basic Usage
+Setup a conda env so we dont mess up the system python
+```bash
+conda env create -n mtgp python=3.10 -y
+conda activate mtgp
+```
+
+Now install the script from pypi:
+```bash
+pip install mtg-card-puller
+```
+
+Now create a folder in the desired location for the images.
+```bash
+mkdir my_folder_name
+cd my_folder_name
+```
+
+Download the mox file to this directory. This should be the file that has the series and card
+numbers on each line like this:
+```txt
+1 Mr. House, President and CEO (PIP) 7 *F*
+1 Arcane Signet (M3C) 283
+1 Arid Mesa (MH2) 244
+1 Attempted Murder (UNF) 66 *F*
+1 Automated Artificer (NEO) 239 *F*
+```
+
+Now you just need to run the script in this folder and pass the file name to the `-f` option:
+```bash
+mtg_card_puller -f mox_file_name.txt
+```
+
+You should see a status bar appear that tells you which card it is currently working on. Once this
+is done, you should have all of the pngs for each card in the list in the current folder.
+
+
+## Development
+
+## Installation For Dev
 To setup mtg_card_puller create a conda environment with the generated `environment.yaml`.
 This sets up a development environment with all the required packages. This is what is used when building 
 out the functionality of this project.
@@ -39,8 +78,6 @@ Replace this message by putting your code into mtg_card_puller.cli.main
 See click documentation at https://click.palletsprojects.com/
 ```
 
-## Development
-
 ### READMEs and Notes
 Every folder in this project other than `mtg_card_puller`` should have a README.md
 file (the template does this automatically for all folders). Each of these READMEs should be kept 
@@ -76,15 +113,3 @@ This will run all the tests and generate a coverage report. To view the coverage
 ```bash
 coverage report
 ```
-
-## Build Docs
-To build the docs webpage locally, you first need to setup sphinx and a few required packages. cd to the `docs/` directory and
-run:
-```bash
-pip install -r requirements.txt
-```
-You can then build the docs using make.
-```bash
-make html
-```
-Point your browser to `build/html/index.html` to view the documentation.
