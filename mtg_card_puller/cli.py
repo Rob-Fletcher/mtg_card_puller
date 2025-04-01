@@ -2,15 +2,20 @@
 
 import sys
 import click
+from mtg_card_puller import mtg_card_puller
 
 CONTEXT_SETTINGS = dict(help_option_names=["-h", "--help"])
 
 @click.command(context_settings=CONTEXT_SETTINGS)
-def main(args=None):
+@click.option(
+    "-v", "--verbose", is_flag=True, help="Enable verbose output for debugging"
+)
+@click.option(
+    "-f", "--file", type=str, required=True, help="Path to the file containing card names"
+)
+def main(verbose, file):
     """Console script for mtg_card_puller."""
-    click.echo("Replace this message by putting your code into "
-               "mtg_card_puller.cli.main")
-    click.echo("See click documentation at https://click.palletsprojects.com/")
+    mtg_card_puller.main(deck_file=file) 
     return 0
 
 
