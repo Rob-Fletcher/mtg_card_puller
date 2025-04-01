@@ -76,15 +76,3 @@ This will run all the tests and generate a coverage report. To view the coverage
 ```bash
 coverage report
 ```
-
-## Build Docs
-To build the docs webpage locally, you first need to setup sphinx and a few required packages. cd to the `docs/` directory and
-run:
-```bash
-pip install -r requirements.txt
-```
-You can then build the docs using make.
-```bash
-make html
-```
-Point your browser to `build/html/index.html` to view the documentation.

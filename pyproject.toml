@@ -39,6 +39,7 @@ dev = [
     "pytest",
     "coverage",
     "pre-commit",
+    "jupyterlab",
 ]
 
 [project.urls]
